@@ -1,0 +1,10 @@
+#NodeID - HostName - Port
+S1 dc11.utdallas.edu 50000
+S2 dc12.utdallas.edu 51000
+S3 dc13.utdallas.edu 52000
+S4 dc14.utdallas.edu 53000
+S5 dc15.utdallas.edu 54000
+S6 dc16.utdallas.edu 55000
+S7 dc17.utdallas.edu 56000
+C1 dc18.utdallas.edu 56005
+C2 dc19.utdallas.edu 56007
