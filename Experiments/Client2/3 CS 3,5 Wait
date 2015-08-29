@@ -1,0 +1,363 @@
+{dc22:~/client2} java -jar client.jar
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:07.057
+RELEASE
+Resources Released
+
+
+Request 1
+
+
+Latency (elapsed time) --> 153
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:07.931
+RELEASE
+Resources Released
+
+
+Request 2
+
+
+Latency (elapsed time) --> 51
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:08.886
+RELEASE
+Resources Released
+
+
+Request 3
+
+
+Latency (elapsed time) --> 352
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:09.841
+RELEASE
+Resources Released
+
+
+Request 4
+
+
+Latency (elapsed time) --> 352
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section6
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:11.147
+RELEASE
+Resources Released
+
+
+Request 5
+
+
+Latency (elapsed time) --> 603
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section6
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:12.403
+RELEASE
+Resources Released
+
+
+Request 6
+
+
+Latency (elapsed time) --> 453
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:14.26
+RELEASE
+Resources Released
+
+
+Request 7
+
+
+Latency (elapsed time) --> 1055
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:15.868
+RELEASE
+Resources Released
+
+
+Request 8
+
+
+Latency (elapsed time) --> 905
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:17.476
+RELEASE
+Resources Released
+
+
+Request 9
+
+
+Latency (elapsed time) --> 1006
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:19.083
+RELEASE
+Resources Released
+
+
+Request 10
+
+
+Latency (elapsed time) --> 904
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:20.69
+RELEASE
+Resources Released
+
+
+Request 11
+
+
+Latency (elapsed time) --> 904
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:22.297
+RELEASE
+Resources Released
+
+
+Request 12
+
+
+Latency (elapsed time) --> 1005
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:23.903
+RELEASE
+Resources Released
+
+
+Request 13
+
+
+Latency (elapsed time) --> 904
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:25.459
+RELEASE
+Resources Released
+
+
+Request 14
+
+
+Latency (elapsed time) --> 754
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:27.015
+RELEASE
+Resources Released
+
+
+Request 15
+
+
+Latency (elapsed time) --> 753
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:28.621
+RELEASE
+Resources Released
+
+
+Request 16
+
+
+Latency (elapsed time) --> 904
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:30.228
+RELEASE
+Resources Released
+
+
+Request 17
+
+
+Latency (elapsed time) --> 1005
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:31.833
+RELEASE
+Resources Released
+
+
+Request 18
+
+
+Latency (elapsed time) --> 803
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:33.138
+RELEASE
+Resources Released
+
+
+Request 19
+
+
+Latency (elapsed time) --> 703
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+NO Deadlock
+Entering CS!!! Client Number : 2 Current time : 2015-04-07 15:14:34.444
+RELEASE
+Resources Released
+
+
+Request 20
+
+
+Latency (elapsed time) --> 603
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+Total messages Sent...280
+Total messages received...139
