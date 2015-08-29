@@ -1,0 +1,320 @@
+
+
+Request 1
+
+
+Latency (elpased time) --> 52
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 2
+
+
+Latency (elpased time) --> 51
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 3
+
+
+Latency (elpased time) --> 51
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 4
+
+
+Latency (elpased time) --> 51
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 5
+
+
+Latency (elpased time) --> 51
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 6
+
+
+Latency (elpased time) --> 352
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 7
+
+
+Latency (elpased time) --> 202
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 8
+
+
+Latency (elpased time) --> 553
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section6
+
+
+RELEASE
+Resources Released
+
+
+Request 9
+
+
+Latency (elpased time) --> 855
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 10
+
+
+Latency (elpased time) --> 402
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 11
+
+
+Latency (elpased time) --> 502
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 12
+
+
+Latency (elpased time) --> 854
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 13
+
+
+Latency (elpased time) --> 553
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 14
+
+
+Latency (elpased time) --> 653
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 15
+
+
+Latency (elpased time) --> 703
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 16
+
+
+Latency (elpased time) --> 552
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 17
+
+
+Latency (elpased time) --> 452
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 18
+
+
+Latency (elpased time) --> 503
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 19
+
+
+Latency (elpased time) --> 402
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 20
+
+
+Latency (elpased time) --> 852
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+Total messages Sent...280
+Total messages received...140

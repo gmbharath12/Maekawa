@@ -1,0 +1,98 @@
+RELEASE
+Resources Released
+
+
+Request 1
+
+
+Latency (elpased time) --> 102
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 2
+
+
+Latency (elpased time) --> 52
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section6
+
+
+RELEASE
+Resources Released
+
+
+Request 3
+
+
+Latency (elpased time) --> 302
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 4
+
+
+Latency (elpased time) --> 252
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 5
+
+
+Latency (elpased time) --> 453
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
+
+
+Request 6
+
+
+Latency (elpased time) --> 452
+
+
+Messages sent to access Critical section--> 7
+
+
+Messages received to access Critical section7
+
+
+RELEASE
+Resources Released
